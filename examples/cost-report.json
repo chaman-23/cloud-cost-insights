@@ -1,0 +1,34 @@
+{
+  "currency": "USD",
+  "rows": 10,
+  "months": {
+    "2026-09": {
+      "actual": "72.00",
+      "last_observed_date": "2026-09-05",
+      "linear_month_end_estimate": "432.00",
+      "services": {
+        "Virtual Machines": "62.00",
+        "Storage": "10.00"
+      },
+      "resource_groups": {
+        "analytics-dev": "72.00"
+      },
+      "daily": {
+        "2026-09-01": "12.00",
+        "2026-09-02": "12.00",
+        "2026-09-03": "24.00",
+        "2026-09-04": "12.00",
+        "2026-09-05": "12.00"
+      },
+      "spikes_above_50_percent": [
+        {
+          "date": "2026-09-03",
+          "cost": "24.00",
+          "previous_day_cost": "12.00"
+        }
+      ],
+      "monthly_budget": "400.00",
+      "estimate_exceeds_budget": true
+    }
+  }
+}
