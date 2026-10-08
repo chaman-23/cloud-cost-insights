@@ -1,0 +1,11 @@
+date,service,resource_group,cost,currency
+2026-09-01,Virtual Machines,analytics-dev,10.00,USD
+2026-09-01,Storage,analytics-dev,2.00,USD
+2026-09-02,Virtual Machines,analytics-dev,10.00,USD
+2026-09-02,Storage,analytics-dev,2.00,USD
+2026-09-03,Virtual Machines,analytics-dev,22.00,USD
+2026-09-03,Storage,analytics-dev,2.00,USD
+2026-09-04,Virtual Machines,analytics-dev,10.00,USD
+2026-09-04,Storage,analytics-dev,2.00,USD
+2026-09-05,Virtual Machines,analytics-dev,10.00,USD
+2026-09-05,Storage,analytics-dev,2.00,USD
